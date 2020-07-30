@@ -1,184 +1,201 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
-        "link": "https://www.alura.com.br/formacao-front-end",
-        "cor": "#6BD1FF",
+        "titulo": "Entenda a reciclagem",
+        "link": "https://www.youtube.com/watch?v=OQ5jpiKzNqg",
+        "cor": "#0041b5",
         "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+            "titulo": "Você está consciente de como seus atos refletem no meio-ambiente?",
+            "url": "https://www.youtube.com/watch?v=Qky8NVaAfK8"
           },
           {
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Afinal de contas, o que é reciclagem?",
+            "url": "https://www.youtube.com/watch?v=OQ5jpiKzNqg&t=25s"
           },
           {
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+            "titulo": "Como funciona a coleta seletiva?",
+            "url": "https://www.youtube.com/watch?v=-7BGB3hHpSA"
           },
           {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+            "titulo": "Como as latinhas são recicladas",
+            "url": "https://www.youtube.com/watch?v=wgPn3kZZtIY"
           },
           {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "Empreendedorismo e sustentabilidade: reciclagem orgânica",
+            "url": "https://www.youtube.com/watch?v=k_tbclMzHuE"
           },
           {
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+            "titulo": "A reciclagem dos plásticos",
+            "url": "https://www.youtube.com/watch?v=qJwSLrcLPvw"
           },
           {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+            "titulo": "O processo de reciclagem do vidro",
+            "url": "https://www.youtube.com/watch?v=ZAUb_rjyr_8"
           },
           {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+            "titulo": "Aprenda de uma vez por todas as cores das lixeiras",
+            "url": "https://www.youtube.com/watch?v=wy7i6wAD7Gw"
           }        
         ]
       },
       {
-        "titulo": "Back End",
-        "cor": "#00C86F",
+        "titulo": "Energia e meio-ambiente",
+        "cor": "#e6de00",
         "link_extra": {
-          "text": "Cursos de Back End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-programacao"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+            "titulo": "Entenda os tipos de energia que utilizamos",
+            "url": "https://www.youtube.com/watch?v=bdgYTLW4ec4"
           },
           {
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+            "titulo": "Descobra como funciona a energia solar!",
+            "url": "https://www.youtube.com/watch?v=7vNkuG0XY8k"
           },
           {
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+            "titulo": "Startup brasileira investe em energia solar para as comunidades",
+            "url": "https://youtu.be/rpR3k-s6fM8"
+          },{
+            "titulo": "Como funciona a energia éolica",
+            "url": "https://www.youtube.com/watch?v=1DVjRwJLdG0"
           },
           {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-          }, 
-          {
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "A geração de energia por meio das hidrelétricas",
+            "url": "https://www.youtube.com/watch?v=iYPMZamqSH4"
           }
         ]
       },
       {
-        "titulo": "Data Science e Inteligência Artificial",
-        "cor": "#9cd33b",
+        "titulo": "Formas de preservação do meio-ambiente",
+        "cor": "#008f37",
         "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/formacao-data-science"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+            "titulo": "Afinal, o que é meio ambiente?",
+            "url": "https://youtu.be/tPGtO8EFwwk"
           },
           {
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+            "titulo": "Ajudando a poluir menos o planeta",
+            "url": "https://www.youtube.com/watch?v=4bcBifYGLgk"
           },
           {
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+            "titulo": "Contribua com o meio-ambiente junto de seus vizinhos",
+            "url": "https://www.youtube.com/watch?v=6nf-x9emSeQ"
           },
           {
-            "titulo": "Como ingressar no mercado de Data Science?",
-            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+            "titulo": "Se desfazendo dos copos descartáveis",
+            "url": "https://www.youtube.com/watch?v=5ChJnTzLD68"
+          },
+          {
+            "titulo": "Consumindo de forma mais consciente",
+            "url": "https://www.youtube.com/watch?v=duubUmXZ8BM"
+          }
+          
+        ]
+      },
+      {
+        "titulo": "Os impactos do descaso com o meio-ambiente",
+        "cor": "#ffd600",
+        "videos": [
+          {
+            "titulo": "O que causa o aquecimento global?",
+            "url": "https://www.youtube.com/watch?v=Oe0npq64-LI"
+          },
+          {
+            "titulo": "O desmatamento como um dos vilões",
+            "url": "https://www.youtube.com/watch?v=x2iXXqYD0zo"
+          },
+          {
+            "titulo": "Como o planeta já está no ''cheque vermelho''",
+            "url": "https://www.youtube.com/watch?v=SD4zArzv96s"
+          },
+          {
+            "titulo": "Os riscos do aquecimento global",
+            "url": "https://www.youtube.com/watch?v=3rG7UblLTgw"
+          },
+          {
+            "titulo": "Os impactos já notáveis no nosso planeta",
+            "url": "https://www.youtube.com/watch?v=p21h6KpXlo8"
           }
         ]
       },
       {
-        "titulo": "Filmes",
-        "cor": "orange",
+        "titulo": "Inovações que ajudam o meio-ambiente",
+        "cor": "#ff3f28",
+        "link_extra": {
+          "text": "",
+          "url": ""
+        },
         "videos": [
           {
-            "titulo": "Interestellar",
-            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+            "titulo": "O empreendedorismo sustentável",
+            "url": "https://www.youtube.com/watch?v=0wQKC1-VuFc"
           },
           {
-            "titulo": "Gattaca",
-            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+            "titulo": "Bioconstrução: casa sustentável",
+            "url": "https://www.youtube.com/watch?v=5qoMek7gfSY"
           },
           {
-            "titulo": "A Chegada",
-            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+            "titulo": "Telhados verdes",
+            "url": "https://www.youtube.com/watch?v=kOYNhnTZXG0"
           },
           {
-            "titulo": "Feitiço do Tempo",
-            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+            "titulo": "Sacolas plásticas que viram alimentos para peixes",
+            "url": "https://www.youtube.com/watch?v=2RIq4ZXB3Wo"
+          },
+          {
+            "titulo": "Telhas ecólogicas",
+            "url": "https://www.youtube.com/watch?v=uYKvdoXrEvI"
+          },
+          {
+            "titulo": "Sacolas biodegradáveis desenvolvidas no Brasil",
+            "url": "https://www.youtube.com/watch?v=BJx0uxi59wU"
           }
         ]
       },
       {
-        "titulo": "Games",
-        "cor": "red",
+        "titulo": "Moda e decoração sustentável",
+        "cor": "#683c39",
         "link_extra": {
-          "text": "Formação de Jogos na Alura",
-          "url": "https://www.alura.com.br/formacao-jogos-unity"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
-            "titulo": "Final Fantasy 7",
-            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+            "titulo": "O que é moda sustentável?",
+            "url": "https://www.youtube.com/watch?v=Jl6g3fjI1rs"
           },
           {
-            "titulo": "Assassins Creed Valhalla",
-            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+            "titulo": "Roupas ecológicas",
+            "url": "https://www.youtube.com/watch?v=FF3nd458q_M"
           },
           {
-            "titulo": "God of War 4",
-            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+            "titulo": "Fazendo uma sementeira reciclando",
+            "url": "https://www.youtube.com/watch?v=cDkAvGmzLwU"
           },
           {
-            "titulo": "Resident Evil 8",
-            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+            "titulo": "Brechós e o meio-ambiente",
+            "url": "https://www.youtube.com/watch?v=mBK_YTu85Qc"
           },
           {
-            "titulo": "Pokémon Let's Go Pikachu/Eevee",
-            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+            "titulo": "Fazendo uma lixeira com materiais reciclados",
+            "url": "https://www.youtube.com/watch?v=0yM26vGKkN0"
+          },
+          {
+            "titulo": "Fazendo cesta com materiais reciclados",
+            "url": "https://www.youtube.com/watch?v=DMXRaStbOSo"
           }
-        ]
-      },
-      {
-        "titulo": "Aprendendo a aprender tecnologia",
-        "cor": "#6b5be2",
-        "link_extra": {
-          "text": "Curso sobre aprendizado na Alura",
-          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-        },
-        "videos": [
-          {
-            "titulo": "Como estudar melhor?",
-            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-          },
-          {
-            "titulo": "Faculdade",
-            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-          },
-          {
-            "titulo": "Frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-          },
-          {
-            "titulo": "A mágica do Aprendizado",
-            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-          },
-          {
-            "titulo": "Como aprender a programar?",
-            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-          }
+
         ]
       }
     ]
