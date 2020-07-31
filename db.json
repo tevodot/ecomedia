@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": "1",
+            "nome": "Como suas escolhas podem ajudar o meio-ambiente",
+            "descricao": "Talks",
+            "cor": "#blue"
+        },
+        {
+            "id": "2",
+            "nome": "Alimentação eco",
+            "descricao": "Podcasts",
+            "cor": "#red"
+        }
+    ]
+}
