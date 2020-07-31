@@ -29,7 +29,7 @@ function CategoryRegister() {
   }
 
   useEffect(() => {
-    const URL_MANEIRA = 'http://localhost:8080/categorias';
+    const URL_MANEIRA = 'https://ecomedia.herokuapp.com/';
     fetch(URL_MANEIRA)
       .then(async (serverResponse) => {
         const response = await serverResponse.json();
